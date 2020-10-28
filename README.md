@@ -1,14 +1,14 @@
-# Shattered Pixel Dungeon
+# Rogue Pixel Dungeon
 
-A Roguelike RPG, with randomly generated levels, items, enemies, and traps! Based on the [source code of Pixel Dungeon](https://github.com/00-Evan/pixel-dungeon-gradle), by [Watabou](https://www.watabou.ru).
+A Roguelike RPG, with randomly generated levels, items, enemies, and traps! Based on the [source code of Pixel Dungeon](https://github.com/00-Evan/pixel-dungeon-gradle), by [Watabou](https://www.watabou.ru), and forked initially from the [source code of Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon), by [00-Evan (Shattered)](http://www.shatteredpixel.com).
 
-Shattered Pixel Dungeon currently compiles for Android and desktop platforms. It is available from [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon/releases), [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon), [Amazon](https://www.amazon.com/Shattered-Pixel-Dungeon/dp/B00OH2C21M), and [F-Droid](https://f-droid.org/repository/browse/?fdid=com.shatteredpixel.shatteredpixeldungeon).
+Rogue Pixel Dungeon will be compiled for the desktop platform only at the moment, attempting to bring the Pixel Dungeon code in a slightly better form than the current release on Steam. This will require a Java installation to run.
 
-If you like this game, please consider [supporting me on Patreon](https://www.patreon.com/ShatteredPixel)!
+If you like this game, tell your friends. Words go a long way.
 
-There is an official blog for this project at [ShatteredPixel.com](http://www.shatteredpixel.com).
+We have no official development blog yet, but we will get there some day!
 
-The game also has a translation project hosted on [Transifex](https://www.transifex.com/shattered-pixel/shattered-pixel-dungeon/).
+Due to the size of the project and my lack of time available, the game will only be available in English currently.
 
 Note that **this repository does not accept pull requests!** The code here is provided in hopes that others may find it useful for their own projects, not to allow community contribution. Issue reports of all kinds (bug reports, feature requests, etc.) are welcome.
 
