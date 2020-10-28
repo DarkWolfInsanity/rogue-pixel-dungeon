@@ -1,3 +1,6 @@
+### I do not fully support Android releases at the moment, so this guide by 00-Evan for S-PD should help you out if you want to play on your phone instead.
+
+
 ### Prerequisites
 
 To compile Shattered Pixel Dungeon for Android using this guide you will need:
