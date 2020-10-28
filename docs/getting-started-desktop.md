@@ -1,3 +1,6 @@
+### If you are looking to compile your own version of R-PD instead of the one we offer in our Releases page, this guide from 00-Evan for S-PD should help you out greatly.
+
+
 ## Quick Setup
 
 If you merely wish to build the game from source, or make small personal changes to the code, then the project can be built with minimal setup:
